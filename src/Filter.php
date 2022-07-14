@@ -1,6 +1,5 @@
 <?php
-
-namespace avatrezaei\LaravelFilter;
+namespace Avatrezaei\Filter;
 
 use Avatrezaei\Filter\AbstractFilter;
 
