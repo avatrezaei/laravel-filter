@@ -1,0 +1,16 @@
+<?php
+
+namespace {{ namespace }};
+
+use Avatrezaei\Filter;
+
+class {{ class }} extends Filter
+{    
+     protected $filters = [
+        /**
+            'type' => function($builder, $value){
+                $builder->where("type",  $value);
+            }
+        */
+     ];
+}

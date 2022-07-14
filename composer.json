@@ -1,0 +1,19 @@
+{
+    "name": "avatrezaei/laravel-filter",
+    "description": "A Laravel package to create better query filters",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+    "psr-4": {
+      "Avatrezaei\\Filter\\": "src/"
+	    }
+	  },
+    "authors": [
+        {
+            "name": "avatrezaei",
+            "email": "avatrezaei88@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
